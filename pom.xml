@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.agsi</groupId>
 	<artifactId>SendSMS</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>SendSMS</name>
 	<description>sendSMS</description>
 	<properties>
