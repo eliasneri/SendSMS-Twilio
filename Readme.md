@@ -2,7 +2,7 @@
 
 SpringBoot <br>
 Java 17 <br>
-Graalvm
+Graalvm 17
 
 Dependência do Twilio
 ```xml
